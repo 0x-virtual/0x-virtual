@@ -1,1 +1,3 @@
 - 👋 Hi, I’m wmvm
+- 服务端开发（区块链业务）
+- 喜欢写 GoLang 和 Node(Typescript)
